@@ -7,5 +7,10 @@ hello gityy
 hello gityy
 hello gityy
 hello gityy
+<<<<<<< HEAD
 hello gityy master
 hello gityy
+=======
+hello gityy
+hello gityy hot-fix
+>>>>>>> hot-fix
